@@ -3,3 +3,4 @@ platforms/android/libs/xwalk_core_library/build.gradle
 *.iml
 .idea
 .editorconfig
+.vscode
