@@ -1,8 +1,8 @@
-# cordova-plugin-crosswalk-webview-v3
+# cordova-plugin-crosswalk-webviewer
 
 This is a fork of original [cordova-plugin-crosswalk-webview](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) library, which aims to provide compatibility with latest cordova versions.
 
-Since there is still a lot of android devices with legacy webview (before 7.0), crosswalk-webview project still makes sense for android. 
+Since there is still a lot of android devices with legacy webview (before Android 7.0), crosswalk-webview project still makes sense for android. 
 
 For detailed information about crosswalk, please visit the homepage of original library. 
 
@@ -12,7 +12,7 @@ For detailed information about crosswalk, please visit the homepage of original 
 * Add this plugin
 
 ```
-$ cordova plugin add cordova-plugin-crosswalk-webview-v3
+$ cordova plugin add cordova-plugin-crosswalk-webviewer
 ```
 
 * Build
