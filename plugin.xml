@@ -9,8 +9,8 @@
     <description>Changes the default WebView to CrossWalk</description>
     <license>Apache 2.0</license>
     <keywords>cordova,chromium,crosswalk,webview</keywords>
-    <repo>https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webviewer</repo>
-    <issue>https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webviewer/issues</issue>
+    <repo>https://github.com/hellofarhan/cordova-plugin-crosswalk-webviewer</repo>
+    <issue>https://github.com/hellofarhan/cordova-plugin-crosswalk-webviewer/issues</issue>
 
     <engines>
         <engine name="cordova-android" version=">=7"/>
