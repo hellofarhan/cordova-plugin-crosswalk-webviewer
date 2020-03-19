@@ -7,7 +7,7 @@ Since there is still a lot of android devices with legacy webview (before Androi
 For detailed information about crosswalk, please visit the homepage of original library. 
 
 
-### Install
+## Install
 
 * Add this plugin
 
@@ -50,12 +50,11 @@ The above apks will be build for each architecture separately only if multiple a
 <preference name="xwalkMultipleApk" value="true" />
 ```
 
-If you don't need to support older devices with 32bit architectures, you should only build for 64-bit, sign and upload them to play store.
-However, if there are still older devices running your app, you must build and sign all 4 of them and upload each to play store.
+## Debug or Inspect XWalk Webview
 
-Check this gist to build all of them in one bash script: (<https://gist.github.com/ardabeyazoglu/ff505d06bd576b966ad7f1c932f7c6ed>)
+To inspect or debug your app, needs older version of chrome (<= 62). Latest versions are not supporting to inspect the codes. You can check the older versions of chrome in chromium folder.
 
-### Release Notes
+## Release Notes
 
 #### 3.0.3 (February 18, 2020)
 * Changed 64bit product flavors to arm64 only, with a versionCode*10 + 4.

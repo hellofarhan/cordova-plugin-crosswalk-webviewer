@@ -1,0 +1,7 @@
+- Older Chromium or Chrome portable releases for Windows
+
+https://sourceforge.net/projects/crportable/files/
+
+- Older Chromium or Chrome portable releases for Mac OSX
+
+https://www.slimjet.com/chrome/google-chrome-old-version.php
